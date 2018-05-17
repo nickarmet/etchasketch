@@ -1,0 +1,728 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"play",
+				"playerScore"
+			],
+			[
+				"p",
+				"pScoreBoard"
+			],
+			[
+				"com",
+				"computerScore"
+			],
+			[
+				"player",
+				"playerScore"
+			],
+			[
+				"psc",
+				"pScoreBoard"
+			],
+			[
+				"cScore",
+				"cScoreBoard"
+			],
+			[
+				"computer",
+				"computerChoice"
+			],
+			[
+				"comp",
+				"computerChoice"
+			],
+			[
+				"compu",
+				"computerScore"
+			],
+			[
+				"comput",
+				"computerChoice"
+			],
+			[
+				"star",
+				"startLine"
+			],
+			[
+				"pad",
+				"padStart"
+			],
+			[
+				"const",
+				"constructor"
+			],
+			[
+				"red",
+				"reduceArray"
+			],
+			[
+				"filt",
+				"filterArray"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"last",
+				"lastName"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"line",
+				"linear-gradient()"
+			],
+			[
+				"dele",
+				"deleteItem"
+			],
+			[
+				"de",
+				"deleteListener"
+			],
+			[
+				"delet",
+				"deleteButton"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"del",
+				"deleteButton"
+			],
+			[
+				"delete",
+				"deleteItem"
+			],
+			[
+				"crea",
+				"createDeleteButton"
+			],
+			[
+				"create",
+				"createButton"
+			],
+			[
+				"c",
+				"className"
+			],
+			[
+				"usern",
+				"username"
+			],
+			[
+				"to",
+				"toDo"
+			],
+			[
+				"pass",
+				"passwordPrompt"
+			],
+			[
+				"pas",
+				"passwordPrompt"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"rg",
+				"rgb()"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"fn",
+				"font-family"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"admi",
+				"admitEnd"
+			],
+			[
+				"pla",
+				"playerScore"
+			],
+			[
+				"pl",
+				"playerScore"
+			],
+			[
+				"lc",
+				"lcPS"
+			],
+			[
+				"sc",
+				"scissors"
+			],
+			[
+				"l",
+				"lcCS"
+			],
+			[
+				"playerSel",
+				"lcPlayerSelection"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"rig",
+				"rightnav"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"text-decoration",
+				"text-decoration"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"head",
+				"head\tTag"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"navbar",
+				"navbar-nav"
+			],
+			[
+				"spac",
+				"letter-spacing"
+			],
+			[
+				"padding-b",
+				"padding-bottom"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"te",
+				"textContent"
+			],
+			[
+				"rand",
+				"randomNumber"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"trans",
+				"translateY()"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"po",
+				"popped_item"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 29.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"add rep",
+				"Package Control: Add Repository"
+			],
+			[
+				"repo",
+				"Package Control: Remove Repository"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"materi",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Materi",
+				"Material Theme: Activate theme"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"2+2",
+			"print('hello')",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nick/Desktop/Coding/theodinproject/etchasketch"
+	],
+	"file_history":
+	[
+		"/Users/nick/Desktop/Coding/theodinproject/rockPaperScissors/script.js",
+		"/Users/nick/Desktop/Coding/theodinproject/rockPaperScissors/reset.css",
+		"/Users/nick/Desktop/Coding/theodinproject/rockPaperScissors/newscript.js",
+		"/Users/nick/Desktop/You-Dont-Know-JS-master/1 up & going/ch1.md",
+		"/Users/nick/Desktop/You-Dont-Know-JS-master/async & performance/README.md",
+		"/Users/nick/Desktop/You-Dont-Know-JS-master/async & performance/apA.md",
+		"/Users/nick/Desktop/You-Dont-Know-JS-master/README.md",
+		"/Users/nick/Desktop/You-Dont-Know-JS-master/PULL_REQUEST_TEMPLATE.md",
+		"/Users/nick/Desktop/You-Dont-Know-JS-master/preface.md",
+		"/Users/nick/Desktop/You-Dont-Know-JS-master/LICENSE.txt",
+		"/Users/nick/Desktop/You-Dont-Know-JS-master/ISSUE_TEMPLATE.md",
+		"/Users/nick/Desktop/You-Dont-Know-JS-master/CONTRIBUTING.md",
+		"/Users/nick/Desktop/Coding/theodinproject/rockPaperScissors/index.html",
+		"/Users/nick/Desktop/Coding/Udemy/ToDo List/package.json",
+		"/Users/nick/Desktop/source-code-pro-master/README.md",
+		"/Users/nick/Desktop/Coding/Udemy/book-tracker/index.html",
+		"/Users/nick/Desktop/Coding/Udemy/book-tracker/CONTRIBUTING.md",
+		"/Users/nick/Desktop/Coding/Udemy/book-tracker/README.md",
+		"/Users/nick/Desktop/Coding/Udemy/book-tracker/CODE_OF_CONDUCT.md",
+		"/Users/nick/.bash_profile",
+		"/Users/nick/Desktop/index.html",
+		"/Users/nick/Documents/Gaming/Addon Stuff/Interface/AddOns/Booster/BoosterAlliance/routes/Alliance_84to85TwilightHighlands.lua",
+		"/Users/nick/Downloads/exerciseES8.js",
+		"/Users/nick/Downloads/exercise5.js",
+		"/Users/nick/Downloads/exercise6.js",
+		"/Users/nick/Downloads/exerciseES7.js",
+		"/Users/nick/Downloads/exercise3.js",
+		"/Users/nick/Downloads/exercise4.js",
+		"/Users/nick/Downloads/exercise3-SOLUTIONS.js",
+		"/Users/nick/Downloads/exercise2.js",
+		"/Users/nick/Downloads/exercise1.js",
+		"/Users/nick/Desktop/Coding/Udemy/ToDo List/script.js",
+		"/Users/nick/Desktop/Coding/Udemy/ToDo List/style.css",
+		"/Users/nick/Desktop/Coding/Udemy/ToDo List/index.html",
+		"/Users/nick/Desktop/Coding/Udemy/JS Practice/script.js",
+		"/Users/nick/Desktop/Coding/Udemy/JS Practice/index.html",
+		"/Applications/Citra/InstallationLog.txt",
+		"/Users/nick/Desktop/Coding/Udemy/DOM-selectors.txt",
+		"/Users/nick/Desktop/Coding/Udemy/exercise7.txt",
+		"/Users/nick/Desktop/Coding/Udemy/faceBookProject/index.html",
+		"/Users/nick/Desktop/Coding/Udemy/faceBookProject/script.js",
+		"/Users/nick/Desktop/Coding/exercise2.txt",
+		"/Users/nick/Desktop/Coding/Udemy/SecondWebsite/index.html",
+		"/Users/nick/Desktop/Coding/Udemy/SecondWebsite/style.css",
+		"/Users/nick/Desktop/Coding/Udemy/Website/index.html",
+		"/Users/nick/Desktop/Coding/Udemy/SecondWebsite/animate.css",
+		"/Users/nick/Desktop/Coding/Udemy/Website/style.css",
+		"/Users/nick/Desktop/Coding/.git/description",
+		"/Users/nick/Desktop/Coding/Udemy/picture-links.txt",
+		"/Users/nick/Desktop/Coding/Udemy/responsiveImageSite/style.css",
+		"/Users/nick/Desktop/Coding/Udemy/responsiveImageSite/index.html",
+		"/Users/nick/Desktop/cssPractice/login.html",
+		"/Users/nick/Desktop/cssPractice/about.html",
+		"/Users/nick/Desktop/cssPractice/index.html",
+		"/Users/nick/Desktop/Portfolio/index.html",
+		"/Users/nick/Desktop/practice.html",
+		"/Users/nick/the_odin_project/javascript-exercises/tempConversion/tempConversion.spec.js",
+		"/Users/nick/the_odin_project/javascript-exercises/tempConversion/tempConversion.js",
+		"/Users/nick/the_odin_project/javascript-exercises/leapYears/leapYears.js",
+		"/Users/nick/the_odin_project/javascript-exercises/leapYears/leapYears.spec.js",
+		"/Users/nick/the_odin_project/javascript-exercises/leapYears/leapYears.",
+		"/Users/nick/the_odin_project/javascript-exercises/sumAll/sumAll.spec.js",
+		"/Users/nick/the_odin_project/javascript-exercises/sumAll/sumAll.js",
+		"/Users/nick/the_odin_project/javascript-exercises/removeFromArray/removeFromArray.spec.js",
+		"/Users/nick/the_odin_project/javascript-exercises/removeFromArray/removeFromArray.js",
+		"/Users/nick/Desktop/remove.html",
+		"/Users/nick/the_odin_project/javascript-exercises/reverseString/reverseString.js",
+		"/Users/nick/the_odin_project/javascript-exercises/reverseString/reverseString.spec.js",
+		"/Users/nick/the_odin_project/javascript-exercises/repeatString/repeatString.spec.js",
+		"/Users/nick/the_odin_project/javascript-exercises/repeatString/repeatString.js",
+		"/Users/nick/the_odin_project/javascript-exercises/helloWorld/helloWorld.spec.js",
+		"/Users/nick/the_odin_project/javascript-exercises/helloWorld/helloWorld.js",
+		"/Users/nick/the_odin_project/javascript-exercises/helloWorld/README.md",
+		"/Users/nick/the_odin_project/practice/guestlist.js",
+		"/Users/nick/the_odin_project/practice/countdown.js",
+		"/Users/nick/the_odin_project/rockPaperScissors/index.html",
+		"/Users/nick/the_odin_project/practice/index.html",
+		"/Users/nick/the_odin_project/practice/.gitignore",
+		"/Users/nick/the_odin_project/google-homepage/style.css",
+		"/Users/nick/the_odin_project/google-homepage/index.html",
+		"/Users/nick/the_odin_project/google-homepage/README.md",
+		"/Users/nick/the_odin_project/AndroidLogo/style.css",
+		"/Users/nick/the_odin_project/AndroidLogo/index.html",
+		"/Users/nick/.gitconfig",
+		"/Users/nick/.gitignore",
+		"/Users/nick/the_odin_project/git_test/README.md",
+		"/Users/nick/the_odin_project/git_test/hello_world.txt",
+		"/Users/nick/railsbridge/test_app/config/routes.rb",
+		"/Users/nick/railsbridge/test_app/Gemfile",
+		"/Users/nick/Desktop/Claim Summary.xhtml",
+		"/Users/nick/Desktop/#Javascript30/01 - JavaScript Drum Kit/style.css",
+		"/Users/nick/Desktop/#Javascript30/01 - JavaScript Drum Kit/index-START.html",
+		"/Users/nick/Desktop/Coding/Udemy/Javascript/Functions Problem Set/solution.js",
+		"/Users/nick/Desktop/Coding/Udemy/Javascript/Functions Problem Set/index.html",
+		"/Users/nick/Desktop/Coding/Udemy/Javascript/annoy.js",
+		"/Users/nick/Desktop/Coding/Udemy/Javascript/annoy.html",
+		"/Users/nick/Desktop/Coding/Udemy/Javascript/game.js",
+		"/Users/nick/Desktop/Coding/Udemy/Javascript/game.html",
+		"/Users/nick/Desktop/script.js",
+		"/Users/nick/Desktop/Udemy/Javascript/index.html",
+		"/Users/nick/Desktop/Udemy/Javascript/script.js",
+		"/Users/nick/Desktop/Udemy/Javascript/stalker.html",
+		"/Users/nick/Desktop/Udemy/Javascript/Starter/stalker.html",
+		"/Users/nick/Desktop/Udemy/Misc/Bootstrap Responsive - Mobile",
+		"/Users/nick/Desktop/Udemy/Purrfect Match/app.css",
+		"/Users/nick/Desktop/Udemy/Purrfect Match/index.html",
+		"/Users/nick/Desktop/Udemy/Misc/navbar.html",
+		"/Users/nick/Desktop/Udemy/gallery.css",
+		"/Users/nick/Desktop/Udemy/gallery.html",
+		"/Users/nick/Downloads/07_Image_Gallery/gallery.md",
+		"/Users/nick/Desktop/Udemy/grid.html",
+		"/Users/nick/Desktop/Udemy/navbar.html",
+		"/Users/nick/Desktop/Udemy/bootstrap.css",
+		"/Users/nick/Desktop/Udemy/basics.html",
+		"/Users/nick/Downloads/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/Users/nick/Desktop/Udemy/blog.css",
+		"/Users/nick/Desktop/Udemy/blog.html",
+		"/Users/nick/Desktop/Udemy/blogcss.css",
+		"/Users/nick/Desktop/Udemy/photos.css",
+		"/Users/nick/Desktop/Udemy/photogrid.html",
+		"/Users/nick/Desktop/Udemy/game.css",
+		"/Users/nick/Desktop/Udemy/tictactoe.html",
+		"/Users/nick/Desktop/Udemy/app.css",
+		"/Users/nick/Desktop/Udemy/aboutMe.html",
+		"/Users/nick/Desktop/Form.html",
+		"/Users/nick/Desktop/firstPage.html",
+		"/Users/nick/the_odin_project/Number Guessing Game/numbergame.html",
+		"/Users/nick/Library/Application Support/Sublime Text 3/Packages/User/Node.sublime-build"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 71.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "etchasketch.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
