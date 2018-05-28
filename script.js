@@ -1,14 +1,30 @@
 let container = document.getElementsByClassName("container")[0];
+let userChoice = prompt("How many squares per side?");
 
-let createDiv = () => {
-	var verticalDivs = [];
-	var horizontalDivs = [];
-	for(let i = 1; i <= 16; ++i) {
-		verticalDivs[i] = document.createElement("div");
-		container.appendChild(verticalDivs[i]);
-		horizontalDivs[i] = document.createElement("div");
-	}
+let createDivs = (userChoice) => {
+	// let verticalDivs = [];
+	// let horizontalDivs = [];
+
+
+	let gridRows = `gridTemplateRows: repeat(${userChoice}, auto)`;
+	let gridColumns = `gridTemplateColumns: repeat(${userChoice}, 1fr)`;
+
+	
+
+	container.style.gridTemplateRows = 'repeat(userChoice, auto);'
+	
+	container.style.gridTemplateColumns = 'repeat(userChoice, auto);'
+
 	console.log(container)
 }
 
-createDiv();
+createDivs();
+
+let hoverSquare = document.querySelectorAll("square");
+
+let hoverColor = (event) => {
+	hoverSquare.setAttribute("style", "color:blue;");
+}
+
+hoverSquare.addEventListener("mouseover", hoverColor());
+
