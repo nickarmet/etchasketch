@@ -1,30 +1,57 @@
 let container = document.getElementsByClassName("container")[0];
-let userChoice = prompt("How many squares per side?");
 
-let createDivs = (userChoice) => {
-	// let verticalDivs = [];
-	// let horizontalDivs = [];
+let createGrid = (userChoice = 16) => {
 
+	let columns = `repeat(${userChoice}, auto)`;
+  	let rows = `repeat(${userChoice}, auto)`;
+  	let totalSquares = userChoice * userChoice;
 
-	let gridRows = `gridTemplateRows: repeat(${userChoice}, auto)`;
-	let gridColumns = `gridTemplateColumns: repeat(${userChoice}, 1fr)`;
+  	container.style.gridTemplateColumns = columns;
+  	container.style.gridTemplateRows = rows;
 
-	
+  	for (let i = 0; i < totalSquares; i++) {
+        let box = document.createElement('div');
+        box.setAttribute('class', 'box');
+        container.appendChild(box);
+        box.style.border = '1px solid black';
+    }
 
-	container.style.gridTemplateRows = 'repeat(userChoice, auto);'
-	
-	container.style.gridTemplateColumns = 'repeat(userChoice, auto);'
-
-	console.log(container)
 }
 
-createDivs();
+createGrid(prompt("How many squares per side?"));
 
-let hoverSquare = document.querySelectorAll("square");
+let hoverSquare = document.querySelector(".container");
 
-let hoverColor = (event) => {
-	hoverSquare.setAttribute("style", "color:blue;");
+let hoverBox = () => {
+    hoverSquare.addEventListener("mouseover", function(event) {
+        if(event.target && event.target.nodeName === "DIV") {
+            event.target.classList.toggle("hoverColor");
+        }
+    }, true);
 }
 
-hoverSquare.addEventListener("mouseover", hoverColor());
+function removeElementsByClass(){
+    let elements = document.getElementsByClassName(".box");
+    while(elements.length > 0){
+        elements[0].parentNode.removeChild(elements[0]);
+    }
+}
+
+let removeChildren = () => {
+    let parentContainer = document.getElementById("container");
+    while(parentContainer.firstChild) {
+        parentContainer.removeChild(parentContainer.firstChild);
+    }
+}
+
+let reset = () => {
+    removeChildren();
+    createGrid(prompt("How many squares per side?"));
+}
+
+let button = document.querySelector(".reset");
+
+button.addEventListener("click", reset);
+
+hoverBox();
 
