@@ -1,6 +1,6 @@
 ## Project title
 
-Rock Paper Scissors
+Etch A Sketch
 
 ## Motivation
 
@@ -12,4 +12,4 @@ HTML, CSS, JavaScript
 
 ## How to use?
 
-The game is best out of five. Click rock, paper, or scissors, and the computer will make their choice. It will then notify you who won, and calculate that round's score.
+You can draw on the grid by mousing over each block. If you reset the grid using the button at the top, then you can choose how many blocks will be on the grid, and draw using the grid you chose.
